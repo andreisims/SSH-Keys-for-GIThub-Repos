@@ -1,1 +1,3 @@
-# SSH-Keys-for-GIThub-Repos
+<h1>SSH Keys for Github Repos</h1>
+<h2>Description</h2>
+This project provides a comprehensive guide to setting up and generating GitHub SSH keys for secure and efficient authentication. By using SSH keys, you can interact with GitHub repositories without the need to repeatedly enter your credentials, enhancing both convenience and security. The guide covers essential steps, including checking for existing SSH keys, generating new ones, adding them to the SSH agent, linking them to your GitHub account, and testing the connection. Whether you're new to GitHub or looking to streamline your workflow, this guide ensures a seamless setup process.
