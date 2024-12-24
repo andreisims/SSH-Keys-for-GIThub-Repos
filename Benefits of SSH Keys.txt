@@ -1,0 +1,11 @@
+1. *Security:*
+SSH keys provide a more secure way to authenticate compared to passwords. They use public-key cryptography, making it difficult for attackers to brute-force or intercept your credentials.
+
+2. *Convenience:*
+Once set up, SSH keys can be used for passwordless authentication, eliminating the need to enter your password each time you interact with a remote server.
+
+3. *Ease of Use:*
+SSH keys simplify the authentication process for various services and platforms, including GitHub, GitLab, Bitbucket, and more.
+
+4. *Automation:*
+SSH keys are often used in automated scripts and processes, allowing secure communication between servers without manual intervention.
