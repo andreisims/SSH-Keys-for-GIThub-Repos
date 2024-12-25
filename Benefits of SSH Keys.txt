@@ -9,3 +9,4 @@ SSH keys simplify the authentication process for various services and platforms,
 
 4. *Automation:*
 SSH keys are often used in automated scripts and processes, allowing secure communication between servers without manual intervention.
+
